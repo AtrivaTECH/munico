@@ -1,1 +1,1 @@
-COntains complete documentation for the muNico. 
+Contains complete documentation for the muNico. 
