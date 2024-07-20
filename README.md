@@ -1,5 +1,5 @@
 # μNico
-All files for the μNico Project!
+All files for the μNico series of boards!
 ![1 - Copy](https://github.com/atulravi/micro-nico/assets/70395057/8e176471-ccf4-4947-aecb-193968607a21)
 
 ## Licensing
